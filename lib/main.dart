@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// flutter pub get
 void main() {
   runApp(
     MaterialApp(
